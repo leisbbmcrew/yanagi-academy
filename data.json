@@ -1,0 +1,2492 @@
+{
+  "cards": [
+    {
+      "id": "pre-manica",
+      "cat": "prese",
+      "level": "Base",
+      "title": "Presa alla manica",
+      "meta": "Kumi-kata a distanza",
+      "intro": "La presa più comune per iniziare uno scambio: tieni l’avversario a distanza mantenendo il controllo su una delle sue leve.",
+      "points": [
+        "Mano che ruota leggermente verso l’interno, per bloccare il tessuto",
+        "Lascia libera l’anca per entrare in proiezione",
+        "Utile contro chi cerca il corpo a corpo"
+      ],
+      "errors": [
+        "Braccio troppo teso: perdi la reattività",
+        "Presa troppo alta, vicino alla spalla: facile da liberare"
+      ],
+      "note": "Principio consolidato",
+      "video": "",
+      "rel": [
+        "pre-gomito",
+        "n-o-soto-gari"
+      ]
+    },
+    {
+      "id": "pre-gomito",
+      "cat": "prese",
+      "level": "Intermedio",
+      "title": "Presa al gomito",
+      "meta": "Kumi-kata ravvicinato",
+      "intro": "Accorcia la distanza e blocca l’articolazione del gomito, limitando le entrate dell’avversario.",
+      "points": [
+        "Ottima per chi ha proiezioni di anca ravvicinate",
+        "Espone di più alla contro-presa",
+        "Va accompagnata da un buon controllo dei piedi"
+      ],
+      "errors": [
+        "Gomito troppo alzato: perdi la leva",
+        "Restare fermi troppo a lungo nella stessa posizione"
+      ],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "pre-manica",
+        "n-o-goshi"
+      ]
+    },
+    {
+      "id": "pre-bavero",
+      "cat": "prese",
+      "level": "Base",
+      "title": "Presa al bavero",
+      "meta": "Kumi-kata alto",
+      "intro": "Il controllo sul colletto, vicino al collo, dà accesso a proiezioni di spalla e a un buon controllo della testa dell’avversario.",
+      "points": [
+        "Gomito basso, vicino al corpo, per non perdere forza",
+        "Spesso abbinata alla presa alla manica dall’altra mano",
+        "Utile per rompere la postura in avanti dell’avversario"
+      ],
+      "errors": [
+        "Presa troppo lasca: perde efficacia sullo sbilanciamento",
+        "Alzare troppo il gomito, che si stanca in fretta"
+      ],
+      "note": "Principio consolidato",
+      "video": "",
+      "rel": [
+        "n-seoi-nage",
+        "pre-manica"
+      ]
+    },
+    {
+      "id": "pre-incrociata",
+      "cat": "prese",
+      "level": "Intermedio",
+      "title": "Presa incrociata (kenka-yotsu)",
+      "meta": "Kumi-kata quando le impugnature sono opposte",
+      "intro": "Si verifica quando un judoka impugna a destra e l’altro a sinistra: cambiano gli angoli di ingresso per molte proiezioni.",
+      "points": [
+        "Valuta se cercare comunque la tua presa preferita o adattarti",
+        "Alcune proiezioni di gamba diventano più naturali, altre più difficili",
+        "Frequente contro avversari mancini"
+      ],
+      "errors": [
+        "Continuare a cercare la presa abituale senza adattare la tattica"
+      ],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "pos-mancino",
+        "pre-omologa"
+      ]
+    },
+    {
+      "id": "pre-omologa",
+      "cat": "prese",
+      "level": "Base",
+      "title": "Presa omologa (aiyotsu)",
+      "meta": "Kumi-kata quando le impugnature sono uguali",
+      "intro": "Quando entrambi impugnano dallo stesso lato (destro-destro o sinistro-sinistro), la presa è più simmetrica e prevedibile per entrambi.",
+      "points": [
+        "La lotta per il kumi-kata è spesso più diretta",
+        "Molte proiezioni classiche nascono pensate per questa configurazione"
+      ],
+      "errors": [],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "pre-incrociata"
+      ]
+    },
+    {
+      "id": "pre-rottura",
+      "cat": "prese",
+      "level": "Avanzato",
+      "title": "Rompere la presa dell’avversario",
+      "meta": "Liberazione dal kumi-kata",
+      "intro": "Quando l’avversario ha una presa dominante, liberarsi in modo pulito è spesso il primo passo prima di poter attaccare.",
+      "points": [
+        "Usa il movimento del corpo, non solo la forza del braccio",
+        "Cerca l’angolo dove la sua presa è più debole (di solito verso il pollice)",
+        "Liberati e attacca nello stesso movimento, senza fermarti"
+      ],
+      "errors": [
+        "Tirare il braccio dritto all’indietro: è la direzione più debole",
+        "Fermarsi dopo la liberazione, dando tempo all’avversario di riprendere la presa"
+      ],
+      "note": "Principio consolidato",
+      "video": "",
+      "rel": [
+        "pre-manica",
+        "pre-gomito"
+      ]
+    },
+    {
+      "id": "pre-doppio-bavero",
+      "cat": "prese",
+      "level": "Intermedio",
+      "title": "Doppia presa al bavero",
+      "meta": "Kumi-kata con entrambe le mani alte",
+      "intro": "Entrambe le mani controllano il bavero o il colletto: dà un forte controllo della testa e della postura, a scapito della mobilità.",
+      "points": [
+        "Efficace per spezzare la postura eretta dell’avversario",
+        "Toglie a te stesso la possibilità di tirare con la manica",
+        "Spesso sanzionata se mantenuta troppo a lungo senza azione"
+      ],
+      "errors": [],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "pre-bavero",
+        "reg-vietate"
+      ]
+    },
+    {
+      "id": "pre-sottobraccio",
+      "cat": "prese",
+      "level": "Intermedio",
+      "title": "Presa sottobraccio (underhook)",
+      "meta": "Kumi-kata di controllo del busto",
+      "intro": "Il braccio passa sotto quello dell’avversario per controllare il suo busto da vicino, utile nel corpo a corpo e in alcune proiezioni d’anca.",
+      "points": [
+        "Dà un controllo solido, ma riduce la distanza per proiezioni di gamba",
+        "Buona base per entrate d’anca ravvicinate"
+      ],
+      "errors": [],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "n-o-goshi",
+        "pre-gomito"
+      ]
+    },
+    {
+      "id": "pre-dietro-schiena",
+      "cat": "prese",
+      "level": "Avanzato",
+      "title": "Presa da dietro la schiena",
+      "meta": "Kumi-kata avvolgente",
+      "intro": "Il braccio avvolge il busto dell’avversario dal fianco o da dietro, spesso usato per proiezioni di sacrificio o per il controllo a ridosso del bordo.",
+      "points": [
+        "Espone chi la esegue a una possibile proiezione all’indietro se non gestita bene",
+        "Utile per bloccare un avversario molto attivo con le mani"
+      ],
+      "errors": [
+        "Restare troppo a lungo in questa presa senza concludere un’azione"
+      ],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "n-ura-nage"
+      ]
+    },
+    {
+      "id": "pre-una-mano",
+      "cat": "prese",
+      "level": "Intermedio",
+      "title": "Presa a una mano",
+      "meta": "Kumi-kata parziale",
+      "intro": "Un solo controllo, di solito sulla manica, mentre l’altra mano cerca il bavero o resta libera per difendersi o attaccare.",
+      "points": [
+        "Dà più libertà di movimento, ma meno controllo complessivo",
+        "Spesso usata come fase di transizione, non come presa finale"
+      ],
+      "errors": [],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "pre-manica"
+      ]
+    },
+    {
+      "id": "pre-pantaloni",
+      "cat": "prese",
+      "level": "Avanzato",
+      "title": "Presa ai pantaloni o sotto la cintura",
+      "meta": "Kumi-kata storica, oggi vietata in gara",
+      "intro": "Un tempo diffusa per facilitare alcune proiezioni di gamba, oggi è vietata nelle competizioni con le regole IJF.",
+      "points": [
+        "Resta visibile in alcuni kata e in contesti non agonistici",
+        "Il divieto in gara riguarda anche il semplice contatto prolungato sotto la cintura"
+      ],
+      "errors": [],
+      "note": "Vietata in gara con le regole IJF dal 2010",
+      "video": "",
+      "rel": [
+        "reg-vietate",
+        "n-sukui-nage"
+      ]
+    },
+    {
+      "id": "n-seoi-nage",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Seoi-nage",
+      "meta": "Te-waza · proiezione di spalla",
+      "intro": "L’avversario viene caricato sulla schiena e proiettato in avanti: una delle tecniche più spettacolari e usate in gara.",
+      "points": [
+        "Entrata rapida, con il fianco che ruota sotto il baricentro dell’avversario",
+        "Esiste anche in versione senza tenere la manica (ippon-seoi-nage)",
+        "Le gambe piegate contano più della forza delle braccia"
+      ],
+      "errors": [
+        "Entrare troppo lontani, senza contatto con il bacino dell’avversario",
+        "Tirare solo con le braccia"
+      ],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": [
+        "pre-bavero",
+        "g-juji-gatame",
+        "n-ippon-seoi-nage"
+      ]
+    },
+    {
+      "id": "n-ippon-seoi-nage",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Ippon-seoi-nage",
+      "meta": "Te-waza · proiezione di spalla a un braccio",
+      "intro": "Variante del seoi-nage in cui un solo braccio carica sulla schiena il braccio dell’avversario, senza tenere la manica con l’altra mano.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": [
+        "n-seoi-nage"
+      ]
+    },
+    {
+      "id": "n-seoi-otoshi",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Seoi-otoshi",
+      "meta": "Te-waza · proiezione di spalla in caduta",
+      "intro": "Una variante del seoi-nage in cui tori scende con un ginocchio a terra per completare la proiezione, invece di ruotare in piedi.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": [
+        "n-seoi-nage"
+      ]
+    },
+    {
+      "id": "n-tai-otoshi",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Tai-otoshi",
+      "meta": "Te-waza · «caduta del corpo»",
+      "intro": "Una proiezione di mano in cui la gamba blocca quella dell’avversario mentre il busto lo fa ruotare in avanti.",
+      "points": [
+        "La gamba tesa fa da ostacolo, non da spazzata",
+        "Funziona bene su chi resiste tirando indietro",
+        "Il corpo ruota, non tira soltanto"
+      ],
+      "errors": [
+        "Piegare la gamba d’appoggio: perde l’effetto di blocco"
+      ],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": [
+        "n-o-uchi-gari"
+      ]
+    },
+    {
+      "id": "n-kata-guruma",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Kata-guruma",
+      "meta": "Te-waza · «ruota di spalla»",
+      "intro": "L’avversario viene sollevato di peso sulle spalle, a cavalcioni del collo, e fatto ruotare a terra: richiede forza e tecnica di sollevamento.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": [
+        "n-seoi-nage"
+      ]
+    },
+    {
+      "id": "n-sukui-nage",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Sukui-nage",
+      "meta": "Te-waza · proiezione a cucchiaio",
+      "intro": "Tori avvolge con le braccia le cosce dell’avversario da davanti o di lato e lo solleva all’indietro.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza) — presa alle gambe vietata in gara dal 2010",
+      "video": "",
+      "rel": [
+        "pre-pantaloni"
+      ]
+    },
+    {
+      "id": "n-obi-otoshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Obi-otoshi",
+      "meta": "Te-waza · caduta di cintura",
+      "intro": "Tori tira in avanti afferrando la cintura dell’avversario mentre con l’altra mano gli solleva la gamba da dietro.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-uki-otoshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Uki-otoshi",
+      "meta": "Te-waza · caduta fluttuante",
+      "intro": "Uno sbilanciamento portato all’estremo: l’avversario viene fatto cadere in cerchio con un movimento delle braccia, quasi senza contatto del corpo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": [
+        "k-nage-no-kata"
+      ]
+    },
+    {
+      "id": "n-sumi-otoshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Sumi-otoshi",
+      "meta": "Te-waza · caduta d’angolo",
+      "intro": "Simile all’uki-otoshi, sbilancia l’avversario verso l’angolo posteriore usando il movimento del corpo più che la forza delle braccia.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": [
+        "n-uki-otoshi"
+      ]
+    },
+    {
+      "id": "n-yama-arashi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Yama-arashi",
+      "meta": "Te-waza · «tempesta di montagna»",
+      "intro": "Combina una trazione in avanti con una spazzata della gamba posteriore: tecnica storicamente associata a Shiro Saigo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-obi-tori-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Obi-tori-gaeshi",
+      "meta": "Te-waza · presa e ribaltamento della cintura",
+      "intro": "Una variante informale dell’hikikomi-gaeshi, eseguita afferrando direttamente la cintura dell’avversario.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza)",
+      "video": "",
+      "rel": [
+        "n-hikikomi-gaeshi"
+      ]
+    },
+    {
+      "id": "n-morote-gari",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Morote-gari",
+      "meta": "Te-waza · raccolta a due mani",
+      "intro": "Tori entra tra le gambe dell’avversario e le avvolge con entrambe le braccia, portandolo a terra all’indietro con il petto.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza) — presa alle gambe vietata in gara dal 2010",
+      "video": "",
+      "rel": [
+        "pre-pantaloni"
+      ]
+    },
+    {
+      "id": "n-kuchiki-taoshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Kuchiki-taoshi",
+      "meta": "Te-waza · abbattimento a un braccio",
+      "intro": "Tori afferra rapidamente una gamba dell’avversario con una mano, sollevandola mentre lo spinge indietro con l’altra.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza) — presa alle gambe vietata in gara dal 2010",
+      "video": "",
+      "rel": [
+        "pre-pantaloni"
+      ]
+    },
+    {
+      "id": "n-kibisu-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Kibisu-gaeshi",
+      "meta": "Te-waza · ribaltamento del tallone",
+      "intro": "Tori si abbassa e afferra il tallone dell’avversario da dietro, facendolo cadere con un movimento rapido delle mani.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza) — presa alle gambe vietata in gara dal 2010",
+      "video": "",
+      "rel": [
+        "pre-pantaloni"
+      ]
+    },
+    {
+      "id": "n-uchi-mata-sukashi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Uchi-mata-sukashi",
+      "meta": "Te-waza · schivata contro l’uchi-mata",
+      "intro": "Una contro-tecnica: quando l’avversario tenta un uchi-mata, tori scivola oltre la gamba che spazza e lo sbilancia in avanti con le mani.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-uchi-mata"
+      ]
+    },
+    {
+      "id": "n-ko-uchi-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Ko-uchi-gaeshi",
+      "meta": "Te-waza · contro al ko-uchi-gari",
+      "intro": "Quando l’avversario tenta un ko-uchi-gari, tori libera la gamba attaccata e lo proietta ruotando il corpo nella direzione opposta.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (te-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-ko-uchi-gari"
+      ]
+    },
+    {
+      "id": "n-uki-goshi",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "Uki-goshi",
+      "meta": "Koshi-waza · anca fluttuante",
+      "intro": "Una proiezione d’anca in cui tori entra solo superficialmente con il fianco, senza abbassarsi molto, e ruota l’avversario di lato.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-goshi"
+      ]
+    },
+    {
+      "id": "n-o-goshi",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "O-goshi",
+      "meta": "Koshi-waza · anca maggiore",
+      "intro": "L’anca del tori diventa il perno su cui l’avversario viene fatto ruotare e cadere: la base di tutte le proiezioni d’anca.",
+      "points": [
+        "Il braccio avvolge la vita dell’avversario",
+        "L’anca deve essere più bassa del suo baricentro",
+        "Le ginocchia piegate proteggono la schiena"
+      ],
+      "errors": [
+        "Restare troppo alti con le anche: la proiezione perde forza"
+      ],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza)",
+      "video": "",
+      "rel": [
+        "pre-gomito",
+        "n-harai-goshi"
+      ]
+    },
+    {
+      "id": "n-koshi-guruma",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "Koshi-guruma",
+      "meta": "Koshi-waza · ruota d’anca",
+      "intro": "Simile all’o-goshi, ma il controllo passa dietro il collo dell’avversario invece che sul bavero, per una rotazione più ampia.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-goshi"
+      ]
+    },
+    {
+      "id": "n-tsurikomi-goshi",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Tsurikomi-goshi",
+      "meta": "Koshi-waza · anca a trazione e sollevamento",
+      "intro": "Tori abbassa le anche fino al livello delle cosce dell’avversario, poi risolleva sollevandolo sopra il proprio bacino.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-goshi"
+      ]
+    },
+    {
+      "id": "n-sode-tsurikomi-goshi",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Sode-tsurikomi-goshi",
+      "meta": "Koshi-waza · variante con presa alla manica",
+      "intro": "Una variante del tsurikomi-goshi in cui la mano di trazione controlla la manica esterna invece del bavero.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza)",
+      "video": "",
+      "rel": [
+        "n-tsurikomi-goshi"
+      ]
+    },
+    {
+      "id": "n-harai-goshi",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Harai-goshi",
+      "meta": "Koshi-waza · spazzata d’anca",
+      "intro": "Combina la rotazione dell’o-goshi con una spazzata della gamba sulla coscia dell’avversario.",
+      "points": [
+        "La gamba spazza in un arco ampio, all’altezza della coscia",
+        "Il tempismo tra rotazione e spazzata è il punto chiave",
+        "Efficace dopo aver rotto l’equilibrio in avanti"
+      ],
+      "errors": [
+        "Spazzare troppo presto, prima di aver caricato l’avversario sull’anca"
+      ],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-goshi",
+        "n-harai-goshi-gaeshi"
+      ]
+    },
+    {
+      "id": "n-tsuri-goshi",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Tsuri-goshi",
+      "meta": "Koshi-waza · anca a sollevamento",
+      "intro": "Tori afferra la cintura dell’avversario da sopra la spalla o sotto il braccio e lo solleva sull’anca per proiettarlo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-goshi"
+      ]
+    },
+    {
+      "id": "n-hane-goshi",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Hane-goshi",
+      "meta": "Koshi-waza · anca a molla",
+      "intro": "Un’azione combinata di anca e gamba, che «lancia» l’avversario con un movimento a molla verso l’alto.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza)",
+      "video": "",
+      "rel": [
+        "n-hane-goshi-gaeshi"
+      ]
+    },
+    {
+      "id": "n-utsuri-goshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Utsuri-goshi",
+      "meta": "Koshi-waza · trasferimento d’anca",
+      "intro": "Un contrattacco contro un tentativo di harai-goshi o proiezione d’anca simile: tori assorbe l’attacco e ribalta l’avversario sulle proprie anche.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-harai-goshi"
+      ]
+    },
+    {
+      "id": "n-ushiro-goshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Ushiro-goshi",
+      "meta": "Koshi-waza · anca all’indietro",
+      "intro": "Un contrattacco: quando l’avversario tenta una proiezione d’anca, tori lo solleva da dietro afferrandolo alla vita e lo fa cadere sulla schiena.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (koshi-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-harai-goshi"
+      ]
+    },
+    {
+      "id": "n-de-ashi-harai",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "De-ashi-harai",
+      "meta": "Ashi-waza · spazzata al piede avanzante",
+      "intro": "Una spazzata di tempismo: si coglie il piede dell’avversario nell’istante in cui sta per appoggiarsi.",
+      "points": [
+        "Il tempismo conta più della forza",
+        "Si accompagna il movimento naturale del suo passo",
+        "Ottima per chi si muove molto durante lo scambio"
+      ],
+      "errors": [
+        "Colpire il piede già appoggiato: serve più forza e funziona meno"
+      ],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-soto-gari",
+        "n-tsubame-gaeshi"
+      ]
+    },
+    {
+      "id": "n-hiza-guruma",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "Hiza-guruma",
+      "meta": "Ashi-waza · ruota al ginocchio",
+      "intro": "Il piede di tori blocca il ginocchio dell’avversario, che diventa il perno attorno a cui ruota tirando con le braccia.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-sasae-tsurikomi-ashi"
+      ]
+    },
+    {
+      "id": "n-sasae-tsurikomi-ashi",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "Sasae-tsurikomi-ashi",
+      "meta": "Ashi-waza · blocco al piede con trazione",
+      "intro": "Il piede di tori blocca la caviglia dell’avversario, che ruota attorno a quel punto fisso mentre viene tirato in avanti.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-hiza-guruma"
+      ]
+    },
+    {
+      "id": "n-o-soto-gari",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "O-soto-gari",
+      "meta": "Ashi-waza · grande falciata esterna",
+      "intro": "Falciata alla gamba d’appoggio dell’avversario, spesso la prima grande proiezione insegnata ai principianti.",
+      "points": [
+        "Sbilancia all’indietro prima di entrare (kuzushi)",
+        "La gamba di spazzata resta tesa",
+        "Funziona bene su chi arretra il peso"
+      ],
+      "errors": [
+        "Entrare senza aver rotto l’equilibrio",
+        "Piegare troppo la gamba di spazzata"
+      ],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "pre-manica",
+        "g-kesa-gatame",
+        "n-o-soto-gaeshi"
+      ]
+    },
+    {
+      "id": "n-o-uchi-gari",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "O-uchi-gari",
+      "meta": "Ashi-waza · grande falciata interna",
+      "intro": "Falciata interna alla gamba dell’avversario, spesso combinata con altre proiezioni come attacco di apertura.",
+      "points": [
+        "Entra tra le gambe dell’avversario con il proprio piede",
+        "Ottima come finta per aprire la strada ad altre tecniche",
+        "Richiede di restare vicini durante tutto il movimento"
+      ],
+      "errors": [
+        "Allontanarsi con il busto mentre si attacca con la gamba"
+      ],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-soto-gari",
+        "n-tai-otoshi",
+        "n-o-uchi-gaeshi"
+      ]
+    },
+    {
+      "id": "n-ko-soto-gari",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "Ko-soto-gari",
+      "meta": "Ashi-waza · piccola falciata esterna",
+      "intro": "Una falciata più piccola e diretta rispetto all’o-soto-gari, alla caviglia dell’avversario invece che a metà gamba.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-soto-gari"
+      ]
+    },
+    {
+      "id": "n-ko-uchi-gari",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "Ko-uchi-gari",
+      "meta": "Ashi-waza · piccola falciata interna",
+      "intro": "Una falciata piccola e precisa alla caviglia interna dell’avversario, spesso usata come attacco rapido o come finta.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-uchi-gari",
+        "n-ko-uchi-gaeshi"
+      ]
+    },
+    {
+      "id": "n-okuri-ashi-harai",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Okuri-ashi-harai",
+      "meta": "Ashi-waza · spazzata di accompagnamento",
+      "intro": "Tori spazza entrambi i piedi dell’avversario mentre questo si sposta lateralmente, seguendone il movimento naturale.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-de-ashi-harai"
+      ]
+    },
+    {
+      "id": "n-uchi-mata",
+      "cat": "proiezioni",
+      "level": "Base",
+      "title": "Uchi-mata",
+      "meta": "Ashi-waza · spazzata all’interno coscia",
+      "intro": "Una delle proiezioni più usate in gara: la gamba di tori spazza dall’interno la coscia dell’avversario mentre il busto ruota in avanti.",
+      "points": [
+        "Serve aprire leggermente la sua base d’appoggio prima di entrare",
+        "La gamba spazza in profondità, non solo di striscio",
+        "Molto efficace anche in presa incrociata"
+      ],
+      "errors": [
+        "Entrare senza aver spostato il peso dell’avversario in avanti"
+      ],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-uchi-mata-sukashi",
+        "n-uchi-mata-gaeshi",
+        "n-uchi-mata-makikomi"
+      ]
+    },
+    {
+      "id": "n-ko-soto-gake",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Ko-soto-gake",
+      "meta": "Ashi-waza · piccolo aggancio esterno",
+      "intro": "Simile al ko-soto-gari, ma il piede aggancia invece di falciare, restando a contatto più a lungo con la caviglia dell’avversario.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-ko-soto-gari"
+      ]
+    },
+    {
+      "id": "n-ashi-guruma",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Ashi-guruma",
+      "meta": "Ashi-waza · ruota di gamba",
+      "intro": "La gamba di tori si estende attraverso il ginocchio dell’avversario, che vi ruota sopra come sull’asse di una ruota.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-hiza-guruma"
+      ]
+    },
+    {
+      "id": "n-harai-tsurikomi-ashi",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "Harai-tsurikomi-ashi",
+      "meta": "Ashi-waza · spazzata con trazione",
+      "intro": "Una spazzata alla caviglia eseguita mentre l’avversario viene tirato in avanti verso l’angolo opposto.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-de-ashi-harai"
+      ]
+    },
+    {
+      "id": "n-o-guruma",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "O-guruma",
+      "meta": "Ashi-waza · grande ruota",
+      "intro": "Simile all’uchi-mata, ma la gamba di tori resta tesa e ferma, agendo come un asse su cui l’avversario ruota completamente.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-uchi-mata"
+      ]
+    },
+    {
+      "id": "n-o-soto-guruma",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "O-soto-guruma",
+      "meta": "Ashi-waza · grande ruota esterna",
+      "intro": "Una variante dell’o-soto-gari in cui la gamba, invece di falciare, agisce come perno fisso su cui l’avversario ruota.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-soto-gari"
+      ]
+    },
+    {
+      "id": "n-o-soto-otoshi",
+      "cat": "proiezioni",
+      "level": "Intermedio",
+      "title": "O-soto-otoshi",
+      "meta": "Ashi-waza · grande caduta esterna",
+      "intro": "Molto simile all’o-soto-gari nell’aspetto, ma la gamba scende come un ostacolo dietro quella dell’avversario invece di falciarla.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-soto-gari"
+      ]
+    },
+    {
+      "id": "n-tsubame-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Tsubame-gaeshi",
+      "meta": "Ashi-waza · «contro della rondine»",
+      "intro": "Un contrattacco al de-ashi-harai: quando l’avversario tenta la spazzata, tori ritira il piede e lo spazza a sua volta dal lato opposto.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-de-ashi-harai"
+      ]
+    },
+    {
+      "id": "n-o-soto-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "O-soto-gaeshi",
+      "meta": "Ashi-waza · contro all’o-soto-gari",
+      "intro": "Quando l’avversario tenta un o-soto-gari, tori anticipa il movimento e lo proietta con un o-soto-gari nella direzione opposta.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-o-soto-gari"
+      ]
+    },
+    {
+      "id": "n-o-uchi-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "O-uchi-gaeshi",
+      "meta": "Ashi-waza · contro all’o-uchi-gari",
+      "intro": "Quando l’avversario tenta un o-uchi-gari, tori usa la gamba libera per falciare la sua gamba d’attacco prima che completi il movimento.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-o-uchi-gari"
+      ]
+    },
+    {
+      "id": "n-hane-goshi-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Hane-goshi-gaeshi",
+      "meta": "Ashi-waza · contro all’hane-goshi",
+      "intro": "Quando l’avversario tenta un hane-goshi, tori lo solleva e lo proietta a sua volta prima che la tecnica si completi.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-hane-goshi"
+      ]
+    },
+    {
+      "id": "n-harai-goshi-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Harai-goshi-gaeshi",
+      "meta": "Ashi-waza · contro all’harai-goshi",
+      "intro": "Quando l’avversario attacca con harai-goshi, tori aggancia la sua gamba di spazzata da dietro e lo proietta.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-harai-goshi"
+      ]
+    },
+    {
+      "id": "n-uchi-mata-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Uchi-mata-gaeshi",
+      "meta": "Ashi-waza · contro all’uchi-mata",
+      "intro": "Quando l’avversario tenta un uchi-mata, tori si stringe a lui, aggancia la sua gamba e la falcia nella direzione opposta.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ashi-waza) — contrattacco",
+      "video": "",
+      "rel": [
+        "n-uchi-mata"
+      ]
+    },
+    {
+      "id": "n-tomoe-nage",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Tomoe-nage",
+      "meta": "Ma-sutemi-waza · proiezione di sacrificio circolare",
+      "intro": "Tori si lascia cadere sulla schiena e usa il piede sull’addome dell’avversario per farlo volare sopra di sé.",
+      "points": [
+        "Il piede si posiziona basso, vicino al bacino, non sullo stomaco alto",
+        "La caduta è controllata, non un vero e proprio lasciarsi andare",
+        "Rischiosa se l’avversario è molto più pesante"
+      ],
+      "errors": [
+        "Piede troppo alto: rischio di colpire senza controllo",
+        "Usarla come primo tentativo contro un avversario molto più forte in piedi"
+      ],
+      "note": "Tecnica ufficiale Kodokan (ma-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "g-juji-gatame",
+        "k-nage-no-kata"
+      ]
+    },
+    {
+      "id": "n-sumi-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Sumi-gaeshi",
+      "meta": "Ma-sutemi-waza · ribaltamento d’angolo",
+      "intro": "Tori cade all’indietro agganciando con il piede la gamba dell’avversario da dietro, sollevandolo e facendolo ruotare sopra di sé.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ma-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "n-tomoe-nage"
+      ]
+    },
+    {
+      "id": "n-hikikomi-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Hikikomi-gaeshi",
+      "meta": "Ma-sutemi-waza · ribaltamento in trazione",
+      "intro": "Tori afferra la schiena dell’avversario piegato in avanti e cade indietro trascinandolo, aiutandosi con una gamba tra le sue.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ma-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "n-obi-tori-gaeshi"
+      ]
+    },
+    {
+      "id": "n-tawara-gaeshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Tawara-gaeshi",
+      "meta": "Ma-sutemi-waza · «ribaltamento del sacco di riso»",
+      "intro": "Tori avvolge il busto dell’avversario piegato in avanti e cade all’indietro, facendolo ruotare sopra la propria testa.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ma-sutemi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-ura-nage",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Ura-nage",
+      "meta": "Ma-sutemi-waza · proiezione all’indietro",
+      "intro": "Tori avvolge la vita dell’avversario e cade all’indietro sollevandolo, spesso usata come contrattacco a un’entrata ravvicinata.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (ma-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "pre-dietro-schiena"
+      ]
+    },
+    {
+      "id": "n-yoko-otoshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Yoko-otoshi",
+      "meta": "Yoko-sutemi-waza · caduta laterale",
+      "intro": "Tori sbilancia l’avversario di lato, blocca il suo piede con la gamba e cade sul proprio fianco per proiettarlo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-tani-otoshi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Tani-otoshi",
+      "meta": "Yoko-sutemi-waza · «caduta nella valle»",
+      "intro": "Tori blocca da dietro entrambe le gambe dell’avversario con la propria e cade di lato, facendolo cadere all’indietro oltre l’ostacolo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-hane-makikomi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Hane-makikomi",
+      "meta": "Yoko-sutemi-waza · avvolgimento a molla",
+      "intro": "Una variante dell’hane-goshi in cui tori avvolge il braccio dell’avversario e cade in avanti portandolo con sé.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "n-hane-goshi"
+      ]
+    },
+    {
+      "id": "n-soto-makikomi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Soto-makikomi",
+      "meta": "Yoko-sutemi-waza · avvolgimento esterno",
+      "intro": "Tori avvolge il braccio dell’avversario sotto l’ascella e cade in avanti, trascinandolo nella rotazione con il proprio corpo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-uchi-makikomi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Uchi-makikomi",
+      "meta": "Yoko-sutemi-waza · avvolgimento interno",
+      "intro": "Una variante dell’ippon-seoi-nage in cui, invece di proiettare sopra la spalla, tori avvolge il braccio dell’avversario e cade con lui.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "n-ippon-seoi-nage"
+      ]
+    },
+    {
+      "id": "n-uki-waza",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Uki-waza",
+      "meta": "Yoko-sutemi-waza · tecnica fluttuante",
+      "intro": "Tori blocca il piede dell’avversario con la gamba estesa e cade di lato, facendolo cadere sopra di sé con un movimento fluttuante.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-yoko-wakare",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Yoko-wakare",
+      "meta": "Yoko-sutemi-waza · separazione laterale",
+      "intro": "Tori cade sulla schiena o sul fianco estendendo entrambe le gambe davanti all’avversario, facendolo cadere oltre il proprio corpo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-yoko-guruma",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Yoko-guruma",
+      "meta": "Yoko-sutemi-waza · ruota laterale",
+      "intro": "Tori infila una gamba in profondità tra quelle dell’avversario e cade sul proprio fianco, facendolo ruotare sopra la testa.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-yoko-gake",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Yoko-gake",
+      "meta": "Yoko-sutemi-waza · aggancio laterale",
+      "intro": "Tori sbilancia l’avversario di lato, aggancia il suo piede con il proprio e cade insieme a lui sullo stesso fianco.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-daki-wakare",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Daki-wakare",
+      "meta": "Yoko-sutemi-waza · separazione ad abbraccio",
+      "intro": "Usata quando l’avversario tenta di mettersi in posizione difensiva a terra: tori lo avvolge dal dietro e cade di lato per ribaltarlo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "n-o-soto-makikomi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "O-soto-makikomi",
+      "meta": "Yoko-sutemi-waza · grande avvolgimento esterno",
+      "intro": "Una variante dell’o-soto-gari in cui tori avvolge il braccio dell’avversario e cade insieme a lui invece di restare in piedi.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-soto-gari"
+      ]
+    },
+    {
+      "id": "n-uchi-mata-makikomi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Uchi-mata-makikomi",
+      "meta": "Yoko-sutemi-waza · avvolgimento da uchi-mata",
+      "intro": "Una variante dell’uchi-mata in cui tori avvolge il braccio dell’avversario e completa la proiezione cadendo con lui.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "n-uchi-mata"
+      ]
+    },
+    {
+      "id": "n-harai-makikomi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Harai-makikomi",
+      "meta": "Yoko-sutemi-waza · avvolgimento da harai-goshi",
+      "intro": "Una variante dell’harai-goshi in cui tori avvolge il braccio dell’avversario e cade in avanti per completare la proiezione.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "n-harai-goshi"
+      ]
+    },
+    {
+      "id": "n-ko-uchi-makikomi",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Ko-uchi-makikomi",
+      "meta": "Yoko-sutemi-waza · avvolgimento da ko-uchi-gari",
+      "intro": "Simile al ko-uchi-gari, ma la gamba dell’avversario viene avvolta e bloccata con il braccio invece che falciata, cadendo insieme a lui.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (yoko-sutemi-waza)",
+      "video": "",
+      "rel": [
+        "n-ko-uchi-gari"
+      ]
+    },
+    {
+      "id": "n-kani-basami",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Kani-basami",
+      "meta": "Yoko-sutemi-waza · «forbice del granchio»",
+      "intro": "Tori salta e stringe le gambe attorno al busto e alle gambe dell’avversario a forbice, facendolo cadere all’indietro.",
+      "points": [],
+      "errors": [],
+      "note": "Vietata in gara e nel randori per il rischio di infortunio",
+      "video": "",
+      "rel": [
+        "reg-vietate"
+      ]
+    },
+    {
+      "id": "n-kawazu-gake",
+      "cat": "proiezioni",
+      "level": "Avanzato",
+      "title": "Kawazu-gake",
+      "meta": "Yoko-sutemi-waza · aggancio a una gamba",
+      "intro": "Tori avvolge stretto il collo dell’avversario con un braccio e intreccia una gamba attorno alla sua, cadendo all’indietro.",
+      "points": [],
+      "errors": [],
+      "note": "Vietata in gara per il rischio di infortunio al ginocchio",
+      "video": "",
+      "rel": [
+        "reg-vietate"
+      ]
+    },
+    {
+      "id": "g-kesa-gatame",
+      "cat": "terra",
+      "level": "Base",
+      "title": "Kesa-gatame",
+      "meta": "Osaekomi-waza · immobilizzazione a sciarpa",
+      "intro": "Una delle immobilizzazioni fondamentali, a «sciarpa», con un buon controllo del busto dell’avversario.",
+      "points": [
+        "Peso basso e distribuito, non solo sulle ginocchia",
+        "Controlla il braccio libero dell’avversario",
+        "Base per passare ad altre immobilizzazioni"
+      ],
+      "errors": [
+        "Stare troppo alti: facile da ribaltare",
+        "Lasciare libero il braccio lontano"
+      ],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": [
+        "n-o-soto-gari",
+        "g-juji-gatame",
+        "g-kuzure-kesa-gatame"
+      ]
+    },
+    {
+      "id": "g-kuzure-kesa-gatame",
+      "cat": "terra",
+      "level": "Base",
+      "title": "Kuzure-kesa-gatame",
+      "meta": "Osaekomi-waza · sciarpa modificata",
+      "intro": "Una delle molte varianti del kesa-gatame, spesso con il ginocchio infilato sotto l’ascella dell’avversario per un controllo più stretto.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": [
+        "g-kesa-gatame"
+      ]
+    },
+    {
+      "id": "g-ushiro-kesa-gatame",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Ushiro-kesa-gatame",
+      "meta": "Osaekomi-waza · sciarpa rovesciata",
+      "intro": "Simile al kesa-gatame, ma tori è rivolto verso le gambe dell’avversario invece che verso la sua testa.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": [
+        "g-kesa-gatame"
+      ]
+    },
+    {
+      "id": "g-kata-gatame",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Kata-gatame",
+      "meta": "Osaekomi-waza · immobilizzazione di spalla",
+      "intro": "Blocca un braccio dell’avversario contro la propria testa e spalla, limitando molto la sua capacità di girarsi.",
+      "points": [
+        "La testa dell’avversario resta schiacciata contro la propria spalla",
+        "Il braccio bloccato non deve poter tornare libero",
+        "Buona transizione verso gli strangolamenti"
+      ],
+      "errors": [
+        "Lasciare spazio tra la propria testa e quella dell’avversario"
+      ],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": [
+        "g-kesa-gatame",
+        "g-hadaka-jime"
+      ]
+    },
+    {
+      "id": "g-kami-shiho-gatame",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Kami-shiho-gatame",
+      "meta": "Osaekomi-waza · controllo dai quattro angoli, dall’alto",
+      "intro": "Tori controlla l’avversario restando sopra la sua testa, afferrando i lati della cintura e schiacciando con il peso del corpo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": [
+        "g-kuzure-kami-shiho-gatame"
+      ]
+    },
+    {
+      "id": "g-kuzure-kami-shiho-gatame",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Kuzure-kami-shiho-gatame",
+      "meta": "Osaekomi-waza · variante del controllo dall’alto",
+      "intro": "Una variante del kami-shiho-gatame, con una mano che controlla il colletto invece di restare sotto la spalla dell’avversario.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": [
+        "g-kami-shiho-gatame"
+      ]
+    },
+    {
+      "id": "g-yoko-shiho-gatame",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Yoko-shiho-gatame",
+      "meta": "Osaekomi-waza · controllo laterale dai quattro angoli",
+      "intro": "Un’immobilizzazione a quattro punti di controllo, laterale, spesso usata come base per una leva al braccio.",
+      "points": [
+        "Il peso è distribuito sul petto dell’avversario",
+        "Le gambe restano larghe per stabilità",
+        "Utile per collegarsi a leve come la juji-gatame"
+      ],
+      "errors": [
+        "Restare con le gambe troppo strette: si perde stabilità"
+      ],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": [
+        "g-kesa-gatame",
+        "g-juji-gatame"
+      ]
+    },
+    {
+      "id": "g-tate-shiho-gatame",
+      "cat": "terra",
+      "level": "Base",
+      "title": "Tate-shiho-gatame",
+      "meta": "Osaekomi-waza · controllo a cavalcioni",
+      "intro": "Tori si siede a cavalcioni sul busto dell’avversario, controllandolo con il peso del proprio corpo appoggiato in avanti.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-uki-gatame",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Uki-gatame",
+      "meta": "Osaekomi-waza · controllo fluttuante",
+      "intro": "Una posizione di transizione, spesso usata quando l’avversario resiste a una juji-gatame intrecciando le braccia.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": [
+        "g-juji-gatame"
+      ]
+    },
+    {
+      "id": "g-ura-gatame",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Ura-gatame",
+      "meta": "Osaekomi-waza · controllo rovesciato",
+      "intro": "Tori è disteso sulla schiena, sotto l’avversario prono, e lo controlla avvolgendo collo e gambe dalla parte opposta.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (osaekomi-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-nami-juji-jime",
+      "cat": "terra",
+      "level": "Base",
+      "title": "Nami-juji-jime",
+      "meta": "Shime-waza · strangolamento a croce normale",
+      "intro": "Le mani incrociate afferrano il bavero con i palmi verso il basso, comprimendo entrambi i lati del collo con il bordo delle mani.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": [
+        "g-gyaku-juji-jime"
+      ]
+    },
+    {
+      "id": "g-gyaku-juji-jime",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Gyaku-juji-jime",
+      "meta": "Shime-waza · strangolamento a croce inversa",
+      "intro": "Come il nami-juji-jime, ma le dita entrano nel bavero con i palmi rivolti verso l’alto, cambiando l’angolo di pressione sul collo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": [
+        "g-nami-juji-jime"
+      ]
+    },
+    {
+      "id": "g-kata-juji-jime",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Kata-juji-jime",
+      "meta": "Shime-waza · strangolamento a mezza croce",
+      "intro": "Una via di mezzo tra i due strangolamenti a croce: una mano entra con il palmo in su, l’altra con il palmo in giù.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": [
+        "g-nami-juji-jime"
+      ]
+    },
+    {
+      "id": "g-hadaka-jime",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Hadaka-jime",
+      "meta": "Shime-waza · strangolamento a mani nude",
+      "intro": "Uno strangolamento da dietro che non usa il judogi, solo il controllo diretto del collo con il braccio.",
+      "points": [
+        "Il braccio comprime i lati del collo, non la trachea al centro",
+        "Il controllo del corpo dell’avversario evita che si giri",
+        "Va studiato con un istruttore per la sicurezza di entrambi"
+      ],
+      "errors": [
+        "Comprimere frontalmente sulla gola invece che sui lati del collo"
+      ],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": [
+        "g-okuri-eri-jime",
+        "g-kata-gatame"
+      ]
+    },
+    {
+      "id": "g-okuri-eri-jime",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Okuri-eri-jime",
+      "meta": "Shime-waza · strangolamento scorrevole al bavero",
+      "intro": "Uno strangolamento da dietro che usa entrambi i lati del bavero dell’avversario, scorrendo attorno al collo.",
+      "points": [
+        "Le mani lavorano una dopo l’altra, non insieme",
+        "Il controllo delle gambe sui fianchi dell’avversario stabilizza la posizione",
+        "Va interrotto subito alla resa o al segnale dell’arbitro"
+      ],
+      "errors": [
+        "Tirare con la forza delle braccia invece che stringere con il bavero"
+      ],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": [
+        "g-hadaka-jime"
+      ]
+    },
+    {
+      "id": "g-kataha-jime",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Kataha-jime",
+      "meta": "Shime-waza · strangolamento a un’ala",
+      "intro": "Da dietro, un braccio controlla il bavero mentre l’altro blocca il braccio dell’avversario dietro il collo, come un’ala ripiegata.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": [
+        "g-okuri-eri-jime"
+      ]
+    },
+    {
+      "id": "g-katate-jime",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Katate-jime",
+      "meta": "Shime-waza · strangolamento a una mano",
+      "intro": "Dal fianco dell’avversario disteso, una mano sola afferra il colletto e comprime la gola con il bordo dell’avambraccio.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-ryote-jime",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Ryote-jime",
+      "meta": "Shime-waza · strangolamento a due mani",
+      "intro": "Di fronte all’avversario, entrambe le mani afferrano i lati opposti del colletto, comprimendo il collo con il bordo dei pugni.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-sode-guruma-jime",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Sode-guruma-jime",
+      "meta": "Shime-waza · strangolamento a ruota di manica",
+      "intro": "Un avambraccio preme sulla gola mentre l’altra mano, aggrappata alla propria manica, ruota per aumentare la pressione sul collo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-tsukkomi-jime",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Tsukkomi-jime",
+      "meta": "Shime-waza · strangolamento a spinta",
+      "intro": "Di fronte all’avversario, una mano tiene il colletto mentre il bordo dell’altra mano spinge direttamente contro il lato del collo.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-sankaku-jime",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Sankaku-jime",
+      "meta": "Shime-waza · strangolamento a triangolo",
+      "intro": "Le gambe di tori formano un triangolo attorno al collo e a un braccio dell’avversario, comprimendo il collo senza usare le mani.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (shime-waza)",
+      "video": "",
+      "rel": [
+        "g-juji-gatame"
+      ]
+    },
+    {
+      "id": "g-do-jime",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Do-jime",
+      "meta": "Shime-waza · costrizione del tronco con le gambe",
+      "intro": "Le gambe di tori stringono il busto dell’avversario a forbice: una tecnica di costrizione del corpo, non del collo.",
+      "points": [],
+      "errors": [],
+      "note": "Vietata sia in gara sia nel randori",
+      "video": "",
+      "rel": [
+        "reg-vietate"
+      ]
+    },
+    {
+      "id": "g-ude-garami",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Ude-garami",
+      "meta": "Kansetsu-waza · leva a braccio intrecciato",
+      "intro": "Il braccio dell’avversario viene intrecciato e torto verso l’interno o l’esterno per controllare l’articolazione del gomito.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kansetsu-waza)",
+      "video": "",
+      "rel": [
+        "g-juji-gatame"
+      ]
+    },
+    {
+      "id": "g-juji-gatame",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Juji-gatame (Ude-hishigi-juji-gatame)",
+      "meta": "Kansetsu-waza · leva al gomito «a croce»",
+      "intro": "Il corpo di tori forma una croce con quello dell’avversario, isolando e distendendo il suo braccio.",
+      "points": [
+        "Il bacino resta vicino al gomito dell’avversario, non lontano",
+        "Si estende con il bacino, non tirando solo con le braccia",
+        "Va rilasciata subito quando l’avversario batte la resa"
+      ],
+      "errors": [
+        "Applicare la leva con un movimento di scatto, senza controllo"
+      ],
+      "note": "Tecnica ufficiale Kodokan (kansetsu-waza)",
+      "video": "",
+      "rel": [
+        "n-seoi-nage",
+        "g-kesa-gatame",
+        "g-ude-garami"
+      ]
+    },
+    {
+      "id": "g-ude-hishigi-ude-gatame",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Ude-hishigi-ude-gatame",
+      "meta": "Kansetsu-waza · leva al braccio",
+      "intro": "Il polso dell’avversario viene bloccato tra spalla e collo di tori, mentre entrambe le mani premono per estendere il gomito.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kansetsu-waza)",
+      "video": "",
+      "rel": [
+        "g-juji-gatame"
+      ]
+    },
+    {
+      "id": "g-ude-hishigi-hiza-gatame",
+      "cat": "terra",
+      "level": "Intermedio",
+      "title": "Ude-hishigi-hiza-gatame",
+      "meta": "Kansetsu-waza · leva al gomito con il ginocchio",
+      "intro": "Il ginocchio di tori preme direttamente sull’articolazione del gomito dell’avversario, mentre le mani ne bloccano il braccio.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kansetsu-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-ude-hishigi-waki-gatame",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Ude-hishigi-waki-gatame",
+      "meta": "Kansetsu-waza · leva sotto l’ascella",
+      "intro": "Il braccio dell’avversario viene bloccato sotto l’ascella di tori, che ne controlla il polso con entrambe le mani per estendere il gomito.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kansetsu-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-ude-hishigi-hara-gatame",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Ude-hishigi-hara-gatame",
+      "meta": "Kansetsu-waza · leva con l’addome",
+      "intro": "Il polso dell’avversario è tenuto da una mano mentre l’addome di tori preme sul gomito per estenderlo contro l’articolazione.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kansetsu-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-ude-hishigi-ashi-gatame",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Ude-hishigi-ashi-gatame",
+      "meta": "Kansetsu-waza · leva con la gamba",
+      "intro": "Dal fianco dell’avversario prono, la gamba di tori si aggancia al suo avambraccio per estendere e controllare il gomito.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kansetsu-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-ude-hishigi-te-gatame",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Ude-hishigi-te-gatame",
+      "meta": "Kansetsu-waza · leva con la mano",
+      "intro": "Una mano controlla il polso dell’avversario mentre l’altra, appoggiata al bavero opposto, aiuta a estendere il gomito contro l’articolazione.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kansetsu-waza)",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "g-ude-hishigi-sankaku-gatame",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Ude-hishigi-sankaku-gatame",
+      "meta": "Kansetsu-waza · leva a triangolo",
+      "intro": "Le gambe di tori formano un triangolo attorno al collo e al braccio dell’avversario, che viene esteso e controllato insieme allo strangolamento.",
+      "points": [],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kansetsu-waza)",
+      "video": "",
+      "rel": [
+        "g-sankaku-jime"
+      ]
+    },
+    {
+      "id": "g-ashi-garami",
+      "cat": "terra",
+      "level": "Avanzato",
+      "title": "Ashi-garami",
+      "meta": "Kansetsu-waza · leva alla gamba",
+      "intro": "Dopo un tomoe-nage fallito o una tecnica simile, la gamba dell’avversario viene avvolta ed estesa per controllare il ginocchio.",
+      "points": [],
+      "errors": [],
+      "note": "Vietata in gara (shiai) per il rischio sul ginocchio",
+      "video": "",
+      "rel": [
+        "n-tomoe-nage",
+        "reg-vietate"
+      ]
+    },
+    {
+      "id": "a-generale",
+      "cat": "atemi",
+      "level": "Avanzato",
+      "title": "Atemi-waza: nozioni generali",
+      "meta": "Colpi, solo nei kata",
+      "intro": "Le tecniche di percussione non si usano in gara, ma fanno parte della tradizione del judo e compaiono in alcuni kata.",
+      "points": [
+        "Presenti soprattutto nel Kime-no-kata",
+        "Aiutano a capire i principi di distanza e tempismo del judo",
+        "Vanno studiate solo con un istruttore qualificato"
+      ],
+      "errors": [],
+      "note": "Attenzione: da praticare solo sotto supervisione diretta",
+      "video": "",
+      "rel": [
+        "k-kime-no-kata",
+        "a-sicurezza"
+      ]
+    },
+    {
+      "id": "a-sicurezza",
+      "cat": "atemi",
+      "level": "Avanzato",
+      "title": "Sicurezza e limiti d’uso",
+      "meta": "Quando e come si studiano gli atemi",
+      "intro": "Gli atemi si esercitano sempre in forma codificata, dentro un kata, mai come contatto libero tra i praticanti.",
+      "points": [
+        "I colpi si arrestano prima del contatto (kime senza impatto reale)",
+        "Servono a capire bersagli e distanze, non a colpire davvero il compagno",
+        "Fanno parte del percorso per i gradi più avanzati"
+      ],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "a-generale"
+      ]
+    },
+    {
+      "id": "a-kime-no-kata",
+      "cat": "atemi",
+      "level": "Avanzato",
+      "title": "Atemi nel Kime-no-kata",
+      "meta": "Collegamento con i kata",
+      "intro": "Il Kime-no-kata, la «forma delle decisioni», è il kata dove gli atemi trovano il loro spazio più ampio, insieme a leve e proiezioni di difesa.",
+      "points": [
+        "Simula aggressioni reali, in forma controllata e codificata",
+        "Alterna tecniche in ginocchio (idori) e in piedi (tachiai)",
+        "Richiede grande fiducia reciproca tra i due praticanti"
+      ],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "k-kime-no-kata",
+        "a-generale"
+      ]
+    },
+    {
+      "id": "k-nage-no-kata",
+      "cat": "kata",
+      "level": "Intermedio",
+      "title": "Nage-no-kata",
+      "meta": "Forma delle proiezioni",
+      "intro": "Kata che raccoglie quindici proiezioni rappresentative, divise in cinque gruppi di tre tecniche.",
+      "points": [
+        "Gruppi: te-waza, koshi-waza, ashi-waza, ma-sutemi, yoko-sutemi",
+        "Richiede due judoka con ruoli fissi (tori e uke)",
+        "Presente negli esami per i gradi avanzati"
+      ],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kata)",
+      "video": "",
+      "rel": [
+        "n-o-goshi",
+        "n-tomoe-nage"
+      ]
+    },
+    {
+      "id": "k-katame-no-kata",
+      "cat": "kata",
+      "level": "Intermedio",
+      "title": "Katame-no-kata",
+      "meta": "Forma dei controlli a terra",
+      "intro": "Kata dedicato al ne-waza: raccoglie immobilizzazioni, leve articolari e strangolamenti in una sequenza codificata.",
+      "points": [
+        "Tre gruppi: osae-waza, shime-waza, kansetsu-waza",
+        "Ogni tecnica viene mostrata con l’opposizione e la resistenza di uke",
+        "Utile per ripassare i principi base del controllo a terra"
+      ],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kata)",
+      "video": "",
+      "rel": [
+        "g-kesa-gatame",
+        "g-juji-gatame"
+      ]
+    },
+    {
+      "id": "k-kime-no-kata",
+      "cat": "kata",
+      "level": "Avanzato",
+      "title": "Kime-no-kata",
+      "meta": "Forma delle decisioni",
+      "intro": "Il kata più legato all’autodifesa: unisce atemi, leve e proiezioni contro attacchi simulati, a mani nude e con armi finte.",
+      "points": [
+        "Diviso in tecniche da seduti (idori) e in piedi (tachiai)",
+        "Include attacchi simulati con coltello e bastone finti",
+        "Richiede gradi avanzati per essere affrontato in sicurezza"
+      ],
+      "errors": [],
+      "note": "Tecnica ufficiale Kodokan (kata)",
+      "video": "",
+      "rel": [
+        "a-generale",
+        "a-kime-no-kata"
+      ]
+    },
+    {
+      "id": "k-ju-no-kata",
+      "cat": "kata",
+      "level": "Avanzato",
+      "title": "Ju-no-kata",
+      "meta": "Forma della cedevolezza",
+      "intro": "Un kata dai movimenti lenti e ampi, pensato per mostrare i principi di cedevolezza e non resistenza alla base del judo.",
+      "points": [
+        "Tre serie di movimenti, dal più semplice al più complesso",
+        "Niente cadute violente: il ritmo è lento e controllato",
+        "Spesso usato anche per lavorare su postura ed equilibrio"
+      ],
+      "errors": [],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "k-nage-no-kata"
+      ]
+    },
+    {
+      "id": "k-goshin-jutsu",
+      "cat": "kata",
+      "level": "Avanzato",
+      "title": "Kodokan Goshin Jutsu",
+      "meta": "Forma di autodifesa moderna",
+      "intro": "Un kata più recente rispetto agli altri, pensato per l’autodifesa anche contro attacchi con armi (coltello, bastone, pistola finta).",
+      "points": [
+        "Diviso in difese a mani nude e difese contro armi",
+        "Integra principi di aikido e altre discipline nella parte finale",
+        "Meno diffuso nei programmi d’esame rispetto agli altri kata"
+      ],
+      "errors": [],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "k-kime-no-kata"
+      ]
+    },
+    {
+      "id": "pos-mancino",
+      "cat": "posizioni",
+      "level": "Intermedio",
+      "title": "Da kumi-kata contro un mancino",
+      "meta": "Situazione tattica",
+      "intro": "Con un avversario mancino, la presa speculare cambia gli angoli di proiezione a tuo favore o a tuo sfavore.",
+      "points": [
+        "Valuta se cercare la presa omologa o eterologa",
+        "Le proiezioni di gamba cambiano lato di entrata",
+        "Utile provare varianti nel randori prima della gara"
+      ],
+      "errors": [
+        "Usare lo stesso schema di sempre senza adattarlo"
+      ],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "pre-incrociata"
+      ]
+    },
+    {
+      "id": "pos-bordo",
+      "cat": "posizioni",
+      "level": "Base",
+      "title": "Vicino al bordo dell’area di combattimento",
+      "meta": "Situazione tattica",
+      "intro": "Quando si è vicini al limite dell’area, l’arbitro può fermare l’azione: cambia cosa conviene tentare.",
+      "points": [
+        "Le proiezioni rapide sono da preferire a quelle che richiedono più passi",
+        "Attenzione a non essere tu a uscire per primo durante un attacco",
+        "Un avversario vicino al bordo spesso rischia di più per non uscire"
+      ],
+      "errors": [
+        "Iniziare una tecnica lunga quando manca poco spazio"
+      ],
+      "note": "",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "pos-vantaggio",
+      "cat": "posizioni",
+      "level": "Intermedio",
+      "title": "In vantaggio, poco tempo alla fine",
+      "meta": "Situazione tattica",
+      "intro": "Quando sei avanti nel punteggio e manca poco, la priorità cambia: gestire il vantaggio pesa più che rischiare per un punto in più.",
+      "points": [
+        "Mantieni la presa preferita, evita scambi rischiosi",
+        "Il controllo della distanza vale quanto un attacco",
+        "Restare attivi conta: la passività può essere sanzionata"
+      ],
+      "errors": [
+        "Diventare completamente passivi: si rischia una sanzione"
+      ],
+      "note": "",
+      "video": "",
+      "rel": [
+        "str-golden-score"
+      ]
+    },
+    {
+      "id": "pos-svantaggio",
+      "cat": "posizioni",
+      "level": "Intermedio",
+      "title": "In svantaggio, poco tempo alla fine",
+      "meta": "Situazione tattica",
+      "intro": "Quando sei sotto nel punteggio e il tempo stringe, serve aumentare il rischio in modo mirato, non alla cieca.",
+      "points": [
+        "Punta sulla tecnica in cui ti senti più sicuro, non su qualcosa di nuovo",
+        "Cerca di forzare la presa che ti serve, anche rompendo lo schema abituale",
+        "Valuta il ne-waza se l’avversario è debole a terra"
+      ],
+      "errors": [
+        "Attaccare in modo disordinato, esponendosi a un contrattacco netto"
+      ],
+      "note": "",
+      "video": "",
+      "rel": [
+        "str-golden-score"
+      ]
+    },
+    {
+      "id": "pos-shido",
+      "cat": "posizioni",
+      "level": "Base",
+      "title": "Dopo aver ricevuto uno shido",
+      "meta": "Situazione tattica",
+      "intro": "Una sanzione cambia leggermente l’equilibrio dell’incontro: non è ancora grave, ma conviene reagire con lucidità.",
+      "points": [
+        "Evita di reagire d’impulso, cercando un attacco affrettato",
+        "Rivedi la tattica se lo shido è arrivato per una posizione difensiva",
+        "Ricorda che le sanzioni si accumulano fino allo hansoku-make"
+      ],
+      "errors": [
+        "Innervosirsi e perdere la struttura della propria presa abituale"
+      ],
+      "note": "",
+      "video": "",
+      "rel": [
+        "reg-shido"
+      ]
+    },
+    {
+      "id": "str-golden-score",
+      "cat": "strategia",
+      "level": "Avanzato",
+      "title": "Gestione del golden score",
+      "meta": "Tattica di gara",
+      "intro": "Nel tempo supplementare vince il primo punteggio: cambia il modo di rischiare rispetto al tempo regolamentare.",
+      "points": [
+        "Evita di esporti a contrattacchi diretti",
+        "Le sanzioni pesano di più, anche solo psicologicamente",
+        "Gestisci il fiato: la tensione consuma energie"
+      ],
+      "errors": [],
+      "note": "Principio consolidato",
+      "video": "",
+      "rel": [
+        "reg-durata",
+        "pos-vantaggio"
+      ]
+    },
+    {
+      "id": "str-avv-alto",
+      "cat": "strategia",
+      "level": "Base",
+      "title": "Affrontare un avversario più alto",
+      "meta": "Tattica generale",
+      "intro": "La differenza di leva cambia l’efficacia di alcune tecniche: conviene adattare distanza e presa.",
+      "points": [
+        "Lavora più vicino, per ridurre la sua leva",
+        "Cerca le proiezioni di sacrificio, meno legate all’altezza",
+        "Attenzione ai suoi tentativi di controllo dall’alto"
+      ],
+      "errors": [],
+      "note": "Variante di scuola",
+      "video": "",
+      "rel": [
+        "n-tomoe-nage"
+      ]
+    },
+    {
+      "id": "str-studio-avversario",
+      "cat": "strategia",
+      "level": "Intermedio",
+      "title": "Studiare un avversario prima della gara",
+      "meta": "Preparazione tattica",
+      "intro": "Conoscere le abitudini di un avversario aiuta a preparare una tattica, senza però irrigidirsi su un solo piano.",
+      "points": [
+        "Osserva la sua presa preferita e il lato in cui attacca di più",
+        "Nota come reagisce quando è in svantaggio nel punteggio",
+        "Prepara un piano, ma resta pronto ad adattarlo durante l’incontro"
+      ],
+      "errors": [
+        "Basare tutta la tattica su un solo video, ignorando come si sente quel giorno"
+      ],
+      "note": "",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "str-tra-incontri",
+      "cat": "strategia",
+      "level": "Intermedio",
+      "title": "Recuperare tra un incontro e l’altro",
+      "meta": "Gestione della gara",
+      "intro": "Nelle giornate con più incontri, il modo in cui recuperi tra un match e l’altro incide quanto la preparazione fisica.",
+      "points": [
+        "Idratati e mangia qualcosa di leggero appena possibile",
+        "Rivedi mentalmente cosa ha funzionato, senza restare sull’errore",
+        "Usa il tempo libero per rilassare i muscoli più affaticati"
+      ],
+      "errors": [
+        "Analizzare a lungo un errore invece di prepararsi al prossimo incontro"
+      ],
+      "note": "",
+      "video": "",
+      "rel": [
+        "str-tensione"
+      ]
+    },
+    {
+      "id": "str-tensione",
+      "cat": "strategia",
+      "level": "Base",
+      "title": "Gestire la tensione pre-gara",
+      "meta": "Preparazione mentale",
+      "intro": "Un po’ di tensione prima di gareggiare è normale: il punto non è eliminarla, ma non farsi condizionare troppo.",
+      "points": [
+        "Una routine fissa prima dell’incontro aiuta a sentirsi pronti",
+        "Il respiro lento e profondo abbassa l’attivazione eccessiva",
+        "Concentrarsi sul proprio piano, non sui risultati altrui"
+      ],
+      "errors": [
+        "Confrontare le proprie sensazioni con quelle degli altri atleti"
+      ],
+      "note": "",
+      "video": "",
+      "rel": [
+        "str-tra-incontri"
+      ]
+    },
+    {
+      "id": "reg-punteggi",
+      "cat": "regolamento",
+      "level": "Base",
+      "title": "Punteggi: ippon e waza-ari",
+      "meta": "Regolamento IJF",
+      "intro": "I due punteggi principali assegnati per una proiezione o un’immobilizzazione, secondo le regole della federazione internazionale.",
+      "points": [
+        "Ippon: chiude subito l’incontro",
+        "Due waza-ari equivalgono a un ippon",
+        "Il criterio guarda forza, controllo e velocità della caduta"
+      ],
+      "errors": [],
+      "note": "Aggiornato alle regole in vigore: verifica sempre l’ultima versione IJF",
+      "video": "https://sor.ijf.org/",
+      "rel": [
+        "reg-durata"
+      ]
+    },
+    {
+      "id": "reg-shido",
+      "cat": "regolamento",
+      "level": "Base",
+      "title": "Le sanzioni: shido e hansoku-make",
+      "meta": "Regolamento IJF",
+      "intro": "Le penalità puniscono azioni passive o scorrette: si accumulano fino alla squalifica dall’incontro.",
+      "points": [
+        "Uno shido è un richiamo, non assegna punti all’avversario",
+        "Quattro sanzioni portano allo hansoku-make (squalifica dall’incontro)",
+        "A parità di punteggio, meno sanzioni significa vincere l’incontro"
+      ],
+      "errors": [],
+      "note": "Aggiornato alle regole in vigore: verifica sempre l’ultima versione IJF",
+      "video": "https://sor.ijf.org/",
+      "rel": [
+        "reg-punteggi",
+        "pos-shido"
+      ]
+    },
+    {
+      "id": "reg-vietate",
+      "cat": "regolamento",
+      "level": "Intermedio",
+      "title": "Azioni vietate principali",
+      "meta": "Regolamento IJF",
+      "intro": "Alcune azioni sono vietate per la sicurezza degli atleti o perché considerate contrarie allo spirito del judo.",
+      "points": [
+        "Afferrare direttamente dentro la gamba dei pantaloni",
+        "Leve dirette e pericolose su articolazioni diverse dal gomito",
+        "Comportamenti considerati antisportivi verso l’avversario o l’arbitro"
+      ],
+      "errors": [],
+      "note": "Elenco semplificato: il regolamento ufficiale ne descrive i dettagli",
+      "video": "https://sor.ijf.org/",
+      "rel": [
+        "reg-shido",
+        "n-kani-basami",
+        "n-kawazu-gake",
+        "g-do-jime",
+        "g-ashi-garami"
+      ]
+    },
+    {
+      "id": "reg-durata",
+      "cat": "regolamento",
+      "level": "Base",
+      "title": "Durata dell’incontro e golden score",
+      "meta": "Regolamento IJF",
+      "intro": "Ogni categoria ha una durata regolamentare fissa; in caso di parità si passa al golden score, senza limite di tempo, decide il primo punteggio.",
+      "points": [
+        "La durata regolamentare cambia da competizione a competizione",
+        "Nel golden score non ci sono più pareggi possibili",
+        "Le sanzioni accumulate contano anche in questa fase"
+      ],
+      "errors": [],
+      "note": "Aggiornato alle regole in vigore: verifica sempre l’ultima versione IJF",
+      "video": "https://sor.ijf.org/",
+      "rel": [
+        "str-golden-score"
+      ]
+    },
+    {
+      "id": "gl-kuzushi",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Kuzushi",
+      "meta": "Squilibrio",
+      "intro": "Il primo dei tre tempi di una proiezione: rompere l’equilibrio dell’avversario prima di entrare in tecnica.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "n-o-soto-gari",
+        "gl-tsukuri"
+      ]
+    },
+    {
+      "id": "gl-tsukuri",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Tsukuri",
+      "meta": "Entrata",
+      "intro": "Il secondo tempo di una proiezione: il posizionamento del proprio corpo rispetto a quello dell’avversario, dopo il kuzushi.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "gl-kuzushi",
+        "gl-kake"
+      ]
+    },
+    {
+      "id": "gl-kake",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Kake",
+      "meta": "Esecuzione",
+      "intro": "Il terzo e ultimo tempo di una proiezione: l’esecuzione vera e propria della tecnica, dopo kuzushi e tsukuri.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "gl-tsukuri"
+      ]
+    },
+    {
+      "id": "gl-tori-uke",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Tori e Uke",
+      "meta": "Ruoli nella pratica",
+      "intro": "Tori è chi esegue la tecnica, uke è chi la riceve. La stessa coppia di termini si usa nei kata e negli esercizi a coppie.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "k-nage-no-kata"
+      ]
+    },
+    {
+      "id": "gl-randori",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Randori",
+      "meta": "Pratica libera",
+      "intro": "L’allenamento a ritmo libero tra due judoka, con intensità concordata: non è una gara, ma un lavoro tecnico reciproco.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "gl-rei",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Rei",
+      "meta": "Saluto",
+      "intro": "Il saluto, in piedi o in ginocchio, che apre e chiude la pratica e ogni scambio tra judoka: esprime rispetto reciproco.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "gl-kumi-kata",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Kumi-kata",
+      "meta": "Modo di afferrare",
+      "intro": "Il modo in cui un judoka cerca e mantiene la presa sul judogi dell’avversario, alla base di ogni azione di proiezione.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "pre-manica"
+      ]
+    },
+    {
+      "id": "gl-shiai",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Shiai",
+      "meta": "Gara",
+      "intro": "L’incontro di competizione, disputato secondo il regolamento arbitrale, distinto dalla pratica libera del randori.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "reg-punteggi"
+      ]
+    },
+    {
+      "id": "gl-osae-komi",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Osae-komi",
+      "meta": "Immobilizzazione in corso",
+      "intro": "L’annuncio dell’arbitro quando un’immobilizzazione è considerata efficace e inizia il conteggio del tempo per il punteggio.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "g-kesa-gatame"
+      ]
+    },
+    {
+      "id": "gl-ma-ate",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Sensei",
+      "meta": "Maestro, insegnante",
+      "intro": "Il termine con cui ci si rivolge al proprio insegnante di judo, per rispetto verso il suo ruolo e la sua esperienza.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "gl-dojo",
+      "cat": "glossario",
+      "level": "Base",
+      "title": "Dojo",
+      "meta": "Luogo di pratica",
+      "intro": "La sala o palestra dove si pratica il judo: letteralmente, «il luogo della via».",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "lib-kodokan",
+      "cat": "libri",
+      "level": "Intermedio",
+      "title": "Kodokan Judo",
+      "meta": "Jigoro Kano",
+      "intro": "Il testo scritto dal fondatore del judo, con i principi e le tecniche fondamentali codificate al Kodokan.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "lib-best-judo",
+      "cat": "libri",
+      "level": "Intermedio",
+      "title": "Kodansha’s Best Judo",
+      "meta": "Isao Inokuma, Nobuyuki Sato",
+      "intro": "Un classico manuale tecnico, scritto da un campione olimpico, con un ampio catalogo di tecniche illustrate.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": []
+    },
+    {
+      "id": "lib-formal-techniques",
+      "cat": "libri",
+      "level": "Avanzato",
+      "title": "Judo Formal Techniques",
+      "meta": "Tadao Otaki, Donn Draeger",
+      "intro": "Un riferimento approfondito sui kata del judo, con la descrizione dettagliata di ogni forma codificata.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "",
+      "rel": [
+        "k-nage-no-kata",
+        "k-katame-no-kata"
+      ]
+    },
+    {
+      "id": "doc-sor",
+      "cat": "documenti",
+      "level": "Base",
+      "title": "Regolamento arbitrale IJF (SOR)",
+      "meta": "International Judo Federation",
+      "intro": "Il documento ufficiale con le regole di gara e di organizzazione degli eventi, pubblicato dalla federazione internazionale.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "https://sor.ijf.org/",
+      "rel": [
+        "reg-punteggi",
+        "reg-shido"
+      ]
+    },
+    {
+      "id": "doc-spiegazione",
+      "cat": "documenti",
+      "level": "Intermedio",
+      "title": "Spiegazione dettagliata delle regole di arbitraggio",
+      "meta": "International Judo Federation",
+      "intro": "Un documento di approfondimento, con casi pratici, su come vengono interpretate le regole di arbitraggio nelle gare IJF.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "https://rules.ijf.org/",
+      "rel": [
+        "doc-sor"
+      ]
+    },
+    {
+      "id": "doc-classificazione",
+      "cat": "documenti",
+      "level": "Intermedio",
+      "title": "Classificazione ufficiale delle tecniche Kodokan/IJF",
+      "meta": "IJF Academy",
+      "intro": "Il documento che elenca in modo ufficiale tutte le tecniche di proiezione e di controllo a terra riconosciute dal Kodokan.",
+      "points": [],
+      "errors": [],
+      "note": "",
+      "video": "https://www.britishjudo.org.uk/wp-content/uploads/2025/11/IJF-Kodokan-Classification-of-Judo.pdf",
+      "rel": [
+        "n-o-soto-gari",
+        "g-kesa-gatame"
+      ]
+    }
+  ]
+}
